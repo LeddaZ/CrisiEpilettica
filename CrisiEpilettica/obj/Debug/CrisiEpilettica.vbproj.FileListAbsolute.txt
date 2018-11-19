@@ -1,0 +1,11 @@
+C:\Users\leona\AppData\Local\Temporary Projects\CrisiEpilettica\bin\Debug\CrisiEpilettica.exe.config
+C:\Users\leona\AppData\Local\Temporary Projects\CrisiEpilettica\bin\Debug\CrisiEpilettica.exe
+C:\Users\leona\AppData\Local\Temporary Projects\CrisiEpilettica\bin\Debug\CrisiEpilettica.pdb
+C:\Users\leona\AppData\Local\Temporary Projects\CrisiEpilettica\bin\Debug\CrisiEpilettica.xml
+C:\Users\leona\AppData\Local\Temporary Projects\CrisiEpilettica\obj\Debug\CrisiEpilettica.vbprojAssemblyReference.cache
+C:\Users\leona\AppData\Local\Temporary Projects\CrisiEpilettica\obj\Debug\CrisiEpilettica.Resources.resources
+C:\Users\leona\AppData\Local\Temporary Projects\CrisiEpilettica\obj\Debug\CrisiEpilettica.vbproj.GenerateResource.cache
+C:\Users\leona\AppData\Local\Temporary Projects\CrisiEpilettica\obj\Debug\CrisiEpilettica.vbproj.CoreCompileInputs.cache
+C:\Users\leona\AppData\Local\Temporary Projects\CrisiEpilettica\obj\Debug\CrisiEpilettica.exe
+C:\Users\leona\AppData\Local\Temporary Projects\CrisiEpilettica\obj\Debug\CrisiEpilettica.xml
+C:\Users\leona\AppData\Local\Temporary Projects\CrisiEpilettica\obj\Debug\CrisiEpilettica.pdb
